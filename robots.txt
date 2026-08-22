@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-etw714.pusat4dmop.cyou/sitemap.xml
